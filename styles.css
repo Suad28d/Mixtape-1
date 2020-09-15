@@ -1,0 +1,22 @@
+body{
+  background-color: lightblue;
+  opacity: 0.6;
+}
+h1, h2{
+    font-family: 'Pathway Gothic One', sans-serif;
+}
+
+
+
+
+
+
+
+img{
+  width:100%
+}
+#top{
+  text-align: center;
+  color: black;
+  font-family: futura, sans-sans-serif;
+}
