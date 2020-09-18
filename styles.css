@@ -8,7 +8,13 @@ img{
 #top{
   text-align: center;
   color: black;
-  font-family: 'Libre Barcode 128 Text',serif;
+  font-family: 'Libre Barcode 128 Text', cursive;
+	font-size:5em;
+}
+.video{
+	position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
 }
 .video iframe{
   position: absolute;
@@ -17,17 +23,30 @@ img{
   width: 100%;
   height: 100%;
 }
-h2{   font-family: 'Pathway Gothic One', sans-serif;
+h2{   font-family: 'Pathway Gothic One', sans-serif;}
 .note {
-  font-size: 120%;
-  color: Darkblue;
+	font-family: 'Pathway Gothic One', sans-serif;	
+	font-size: 120%;
+	color: Darkblue;
 }
 h3{
-  color: Darkblue
+  color: Darkblue;
   font-family:Times, Times New Roman, Georgia, serif;
-  font-size: 100;
+  font-size: 100%;
   font-weight: normal;
 }
+nav{
+	margin: auto;
+	margin-top:30px;
+	font-size:2em !important;
+	width: 300px;
+	display: block;
+	text-align: center;
+}
+nav a{
+	margin: 10px;
+}
+
 
 
 h1{
