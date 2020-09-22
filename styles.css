@@ -9,7 +9,7 @@ img{
   text-align: center;
   color: black;
   font-family: 'Libre Barcode 128 Text', cursive;
-	font-size:5em;
+  font-size:7em;
 }
 .video{
 	position: relative;
@@ -23,12 +23,16 @@ img{
   width: 100%;
   height: 100%;
 }
-h2{   font-family: 'Pathway Gothic One', sans-serif;}
+h2{ font-family: 'Pathway Gothic One', sans-serif;}
 .note {
-	font-family: 'Pathway Gothic One', sans-serif;	
-	font-size: 120%;
-	color: Darkblue;
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size: 120%;
+    color: Darkblue;
 }
+.tour{
+  background-color: Violet;
+}
+
 h3{
   color: Darkblue;
   font-family:Times, Times New Roman, Georgia, serif;
@@ -36,15 +40,15 @@ h3{
   font-weight: normal;
 }
 nav{
-	margin: auto;
-	margin-top:30px;
-	font-size:2em !important;
-	width: 300px;
-	display: block;
-	text-align: center;
+    margin: auto;
+    margin-top:30px;
+    font-size:2em !important;
+    width: 300px;
+    display: block;
+    text-align: center;
 }
 nav a{
-	margin: 10px;
+    margin: 10px;
 }
 
 
@@ -52,4 +56,17 @@ nav a{
 h1{
   font-family:'Libre Barcode 128 Text',serif;
   border-width: 1px 4px 12px 4px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 }
